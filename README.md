@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marcyvillegas
+- 👀 I’m interested in Web development and Web designing.
+- 🌱 I’m currently learning Javascript at the moment. I am planning to learn more about front-end web development along with back-end web development.
+- 💞️ I’m looking to collaborate on anything that is Web development and Web designing related projects. I just started self-studying so bare with my newbie skills.
+- 📫 You can reach me by emailing me at marcyvillegas17@gmail.com
