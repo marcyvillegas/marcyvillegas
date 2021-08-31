@@ -5,5 +5,7 @@
 - 📫 You can reach me by emailing me at marcyvillegas17@gmail.com
 
 ![marcyvillegas's Stats](https://github-readme-stats.vercel.app/api?username=marcyvillegas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ![marcyvillegas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcyvillegas&theme=tokyonight&hide_border=true)
+
 ![marcyvillegas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcyvillegas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
