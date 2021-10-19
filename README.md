@@ -9,6 +9,6 @@
 ![marcyvillegas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcyvillegas&theme=tokyonight&hide_border=true)
 
 <div align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=marcyvillegas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;">
-<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=marcyvillegas&theme=tokyonight&hide_border=true" style="max-width: 100%;">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=marcyvillegas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=marcyvillegas&theme=tokyonight&hide_border=true" style="max-width: 100%;">
 </div>
