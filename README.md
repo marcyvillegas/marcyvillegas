@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on anything that is Web development and Web designing related projects. I just started self-studying so bare with my newbie skills.
 - 📫 You can reach me by emailing me at marcyvillegas17@gmail.com
 
-![marcyvillegas's Stats](https://github-readme-stats.vercel.app/api?username=marcyvillegas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![marcyvillegas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcyvillegas&theme=tokyonight&hide_border=true)
 
+<div>
+<img src="![marcyvillegas's Stats](https://github-readme-stats.vercel.app/api?username=marcyvillegas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)">
+<img src="![marcyvillegas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcyvillegas&theme=tokyonight&hide_border=true)">
+</div>
 
