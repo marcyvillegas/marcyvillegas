@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @marcyvillegas
-- 👀 I’m interested in Web development and Web designing.
-- 🌱 I’m currently learning Javascript at the moment. I am planning to learn more about front-end web development along with back-end web development.
-- 💞️ I’m looking to collaborate on anything that is Web development and Web designing related projects. I just started self-studying so bare with my newbie skills.
-- 📫 You can reach me by emailing me at marcyvillegas17@gmail.com
-
+<div align="center" >
+<h3> Hi! I am Marcy Villegas and I am interested in Web Design and Web Development 💻 <br>
+  I am currently learning Javascript at the moment and planning to learn the MERN stack 📚</h3>
+  <p>Feel free to connect with me if you want to do collaborations with me <br>
+    <b>✉ Gmail :</b> marcyvillegas17@gmail.com <br>
+    <b>🟣 Discord :</b> maashii#8560
+  </p>
+</div>
+  
 <br>
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=marcyvillegas&theme=calm&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;">
