@@ -3,7 +3,8 @@
   I am currently learning Javascript at the moment and planning to learn the MERN stack 📚</h3>
   <p>Feel free to connect with me if you want to do collaborations <br>
     <b>✉ Gmail :</b> marcyvillegas17@gmail.com <br>
-    <b>🟣 Discord :</b> https://discords.com/bio/p/maashii
+    <b>🟣 Discord :</b> https://discords.com/bio/p/maashii <br>
+    <b>🟦 LinkedIn :</b> https://www.linkedin.com/in/marcyvillegas/
   </p>
 </div>
   
