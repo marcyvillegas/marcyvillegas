@@ -5,7 +5,7 @@
     <b>✉ Gmail :</b> marcyvillegas17@gmail.com <br>
     <b>🟣 Discord :</b> maashii#8560 <br>
     <b>🟦 LinkedIn :</b> https://www.linkedin.com/in/marcyvillegas/ <br><br>
-    Also, feel free to join our discord server <b>Web Dev Peeps </> </b> <br>
+    Also, feel free to join our discord server <b>Web Dev Peeps 💻 </b> <br>
     https://discord.gg/WR2KMcSQxm
   </p>
 </div>
