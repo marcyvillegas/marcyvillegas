@@ -4,9 +4,7 @@
   <p>Feel free to connect with me if you want to do collaborations <br>
     <b>✉ Gmail :</b> marcyvillegas17@gmail.com <br>
     <b>🟣 Discord :</b> maashii#8560 <br>
-    <b>🟦 LinkedIn :</b> https://www.linkedin.com/in/marcyvillegas/ <br><br>
-    Join our discord server <b>Web Dev Peeps 💻 </b> <br>
-    https://discord.gg/WR2KMcSQxm
+    <b>🟦 LinkedIn :</b> https://www.linkedin.com/in/marcyvillegas/
   </p>
 </div>
   
