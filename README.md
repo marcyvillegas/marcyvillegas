@@ -1,6 +1,6 @@
 <div align="center" >
 <h3> Hi! I am Marcy Villegas and I am interested in Web Design and Web Development 💻 <br>
-  I am currently learning ReactJS and NextJS at the moment and planning to learn the MERN stack 📚</h3>
+  I am currently learning ReactJS, NextJS and Typescript at the moment and planning to learn the MERN stack 📚</h3>
   <p>Feel free to connect with me if you want to do collaborations <br>
     <b>✉ Gmail :</b> marcyvillegas17@gmail.com <br>
     <b>🟣 Discord :</b> maashii#8560 <br>
