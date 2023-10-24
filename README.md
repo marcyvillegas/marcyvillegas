@@ -1,10 +1,11 @@
 <div align="center" >
-<h3> Hi! I am Marcy Villegas and I am interested in Web Design and Web Development 💻 <br>
-  Feel free to connect with me if you want to do collaborations <br>
+  <h3> Hi! I am Marcy Villegas and I am interested in Web Design and Web Development 💻 <br>
+    Feel free to connect with me if you want to do collaborations </h3>
+  <h4>
     <b>✉ Gmail :</b> marcyvillegas17@gmail.com <br>
     <b>🟣 Discord :</b> maashii#8560 <br>
     <b>🟦 LinkedIn :</b> https://www.linkedin.com/in/marcyvillegas/
-  </h3>
+  </h4>
 </div>
   
 <div align="center">
